@@ -41,8 +41,10 @@ Open your browser and visit:
 http://localhost:3000
 ```
 
-🌍 ## Deployment
+## 🌍Deployment
+
 The frontend is live on Netlify
+
 🔗 Live URL: https://system-dashboard-frontend.netlify.app/
 
 
