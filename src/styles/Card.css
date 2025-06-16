@@ -1,0 +1,30 @@
+.card {
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 0 20px rgba(0, 255, 231, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.card-title {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #00ffe7;
+  text-shadow: 0 0 5px #00ffe7;
+}
+
+.card-content {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.card-content li {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
