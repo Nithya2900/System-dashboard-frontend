@@ -15,7 +15,6 @@ This is the frontend interface for the **System Dashboard** — a real-time syst
 - **React.js**
 - **Axios** – for HTTP requests
 - **CSS** – custom-styled without Tailwind or Bootstrap
-- **Chart.js** (optional for graphs if added)
 
 
 ## 🌐 Backend Integration
