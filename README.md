@@ -9,7 +9,6 @@ This is the frontend interface for the **System Dashboard** — a real-time syst
 - 🧠 OS and hardware info viewer
 - 🔄 Auto-refreshing data (optional toggle)
 - 📱 Responsive layout (works on mobile too)
-- 🎨 Styled with plain CSS (no Tailwind!)
 
 ## 🔧 Technologies Used
 
